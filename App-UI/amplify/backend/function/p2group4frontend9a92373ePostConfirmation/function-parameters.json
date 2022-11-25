@@ -1,0 +1,17 @@
+{
+  "trigger": true,
+  "modules": [
+    "custom"
+  ],
+  "parentResource": "p2group4frontend9a92373e",
+  "functionName": "p2group4frontend9a92373ePostConfirmation",
+  "resourceName": "p2group4frontend9a92373ePostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "C:\\Users\\chell\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "triggerEventPath": "PostConfirmation.event.json",
+  "roleName": "p2group4frontend9a92373ePostConfirmation",
+  "skipEdit": true,
+  "enableCors": false
+}
